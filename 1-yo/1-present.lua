@@ -1,10 +1,10 @@
--- Define the hash table
-yoPresent = {
+questions = {
     ser = "soy",
     estar = "estoy",
     ir = "voy",
     tener = "tengo",
     hacer = "hago",
+--[[
     ver = "veo",
     poder = "puedo",
     dar = "doy",
@@ -50,5 +50,6 @@ yoPresent = {
     sentir = "siento",
     morir = "muero",
     conseguir = "consigo"
+]]
 }
 
