@@ -4,15 +4,15 @@
 # Tenses 
 ## 1) Present
 I speak Spanish every day  
-**Hablo español** todos los días
+**Hablo** español todos los días
 
 ## 2) Present Ongoing 
 I am speaking Spanish every day   
-**Estoy hablando español** todos los días
+**Estoy hablando** español todos los días
 
 ## 3) Present Perfect
 I have spoken Spanish before  
-**He hablado español** antes
+**He hablado** español antes
 
 ## 4) Present Perfect Ongoing 
 I have been speaking Spanish   
@@ -20,7 +20,7 @@ I have been speaking Spanish
 
 ## 5) Past
 I spoke Spanish yesterday   
-**Hablé español** él ayer
+**Hablé** español él ayer
 
 ## 6) Past Ongoing
 I was speaking Spanish  
