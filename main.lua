@@ -1,12 +1,15 @@
-dofile("_10/1-yo/1-past.lua")
+file = "_easy/yo/2-past.lua"
+dofile(file)
+print(file)
+print("---------------")
 
 local correct = 0
 local total = 0
 local start = os.time()
 
 -- Ask the user how many verbs they want to practice
-print("How many verbs do you want to practice?")
-local numVerbs = tonumber(io.read())
+--print("How many verbs do you want to practice?")
+--local numVerbs = tonumber(io.read())
 
 for verb, translation in pairs(data) do
     io.write(total + 1 .. ". 'yo " .. verb .. "': ")
@@ -19,10 +22,11 @@ for verb, translation in pairs(data) do
     end
     total = total + 1
 
-    -- Stop the loop if the user has practiced the desired number of verbs
+    --[[ Stop the loop if the user has practiced the desired number of verbs
     if total >= numVerbs then
         break
     end
+    ]]
 end
 
 local finish = os.time()
