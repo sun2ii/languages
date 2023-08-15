@@ -2,50 +2,77 @@
 * 🇪🇸 Spanish
 
 # Tenses 
-## 1) Present
-I speak Spanish every day  
-**Hablo** español todos los días
 
-## 2) Present Ongoing 
-I am speaking Spanish every day   
-**Estoy hablando** español todos los días
+## Infinitive        
+- (ar) hablar
+- (er) comer    
+- (ir) vivir
+  
+----------------
 
-## 3) Present Perfect
-I have spoken Spanish before  
-**He hablado** español antes
+## Present
+- (ar) hablo    
+- (er) como    
+- (ir) vivo    
 
-## 4) Present Perfect Ongoing 
-I have been speaking Spanish   
-**He estado hablando** español 
+## Past
+- (ar) hablé    
+- (er) comí    
+- (ir) viví   
 
-## 5) Past
-I spoke Spanish yesterday   
-**Hablé** español él ayer
+## Future
+- (ar) hablaré    
+- (er) comeré    
+- (ir) viviré    
 
-## 6) Past Ongoing
-I was speaking Spanish  
-**Estaba hablando** español
+----------------
 
-## 7) Past Perfect
-I had already spoken Spanish   
-**Ya había hablado** español 
+## Present + Perfect
+- (ar) he hablado    
+- (er) he comido    
+- (ir) he vivido    
 
-## 8) Past Perfect Ongoing
-I had been speaking Spanish   
-**Había estado hablando** español
+## Past + Perfect
+- (ar) había hablado    
+- (er) había comido       
+- (ir) había vivido       
 
-## 9) Future
-I will speak at the conference next week   
-**Hablaré** en la conferencia la próxima semana
+## Future + Perfect
+- (ar) habré hablado    
+- (er) habré comido    
+- (ir) habré vivido    
 
-## 10) Future Ongoing
-I will be speaking Spanish  
-**Estaré hablando** español 
+----------------
 
-## 11) Future Perfect 
-I will have spoken Spanish  
-**Habré hablado** español 
+## Present + Perfect Continuous 
+- (ar) he estado hablando
+- (er) he estado comiendo
+- (ir) he estado viviendo
 
-## 12) Future Perfect Ongoing
-I will have been speaking Spanish   
-**Habré estado hablando** español        
+## Past + Perfect Continuous 
+- (ar) había estado hablando
+- (er) había estado comiendo
+- (ir) había estado viviendo
+
+## Future + Perfect Continuous 
+- (ar) habré estado hablando
+- (er) habré estado comiendo
+- (ir) habré estado viviendo
+
+----------------
+
+## Present + Continuous
+- (ar) estoy hablando    
+- (er) estoy comiendo       
+- (ir) estoy viviendo      
+
+## Past + Continuous
+- (ar) estaba hablando    
+- (er) estaba comiendo    
+- (ir) estaba viviendo    
+
+## Future + Continuous
+- (ar) estare hablando    
+- (er) estare comiendo    
+- (ir) estare viviendo    
+ 
