@@ -1,8 +1,3 @@
-# Languages
-* 🇪🇸 Spanish
-
-# Tenses 
-
 ## Infinitive        
 - (ar) hablar
 - (er) comer    
@@ -61,9 +56,9 @@
 - (ir) viviré    
 
 ## Future + Continuous
-- (ar) estare hablando    
-- (er) estare comiendo    
-- (ir) estare viviendo    
+- (ar) estaré hablando    
+- (er) estaré comiendo    
+- (ir) estaré viviendo    
 
 ## Future + Perfect Continuous 
 - (ar) habré estado hablando
