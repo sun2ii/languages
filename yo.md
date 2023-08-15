@@ -27,6 +27,23 @@
 
 ----------------
 
+## Present + Continuous
+- (ar) estoy hablando    
+- (er) estoy comiendo       
+- (ir) estoy viviendo      
+
+## Past + Continuous
+- (ar) estaba hablando    
+- (er) estaba comiendo    
+- (ir) estaba viviendo    
+
+## Future + Continuous
+- (ar) estare hablando    
+- (er) estare comiendo    
+- (ir) estare viviendo    
+ 
+----------------
+
 ## Present + Perfect
 - (ar) he hablado    
 - (er) he comido    
@@ -59,20 +76,3 @@
 - (er) habré estado comiendo
 - (ir) habré estado viviendo
 
-----------------
-
-## Present + Continuous
-- (ar) estoy hablando    
-- (er) estoy comiendo       
-- (ir) estoy viviendo      
-
-## Past + Continuous
-- (ar) estaba hablando    
-- (er) estaba comiendo    
-- (ir) estaba viviendo    
-
-## Future + Continuous
-- (ar) estare hablando    
-- (er) estare comiendo    
-- (ir) estare viviendo    
- 
