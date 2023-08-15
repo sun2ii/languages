@@ -1,6 +1,6 @@
 data = {
-    hablar = "he estado hablando",
-    comer = "he estado comiendo",
-    vivir = "he estado viviendo",
+    hablar = "he hablado",
+    comer = "he comido",
+    vivir = "he vivido",
 }
 
