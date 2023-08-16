@@ -1,0 +1,28 @@
+caminar (to walk)
+  camino
+  camin3
+  caminar3
+  caminando
+  camiado
+
+bailar  (to dance)
+  bailo
+  bail3
+  bailar3
+  bailando
+  bailado
+
+cantar  (to sing)
+  canto
+  cant3
+  cantar3
+  cantando
+  cantado
+
+nadar   (to swim)
+  nado
+  nad3
+  nadar3
+  nadiando
+  nadiado
+

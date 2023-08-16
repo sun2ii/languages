@@ -1,0 +1,23 @@
+   Yo
+----------
+hablar
+  hablo 
+  habl3
+  hablar3
+  habiendo
+  hablado
+
+comer
+  como
+  com1
+  comor3
+  comiendo
+  comieo
+
+vivir
+  vivo
+  viv1
+  vivir3
+  viviendo
+  vivido
+

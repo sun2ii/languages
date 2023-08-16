@@ -1,0 +1,28 @@
+beber    (to drink)
+  bebo
+  beb1
+  beber3
+  bebiendo
+  bebido
+
+correr   (to run)
+  corro
+  corr1
+  correr3
+  corriendo
+  corido
+
+leer     (to read)
+  leo
+  le1
+  leer3
+  leyendo
+  leyedo
+
+aprender (to learn)
+  aprendo
+  aprend1
+  aprender3
+  aprendiendo
+  aprido
+
