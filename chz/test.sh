@@ -6,13 +6,13 @@ he hablado            - I have spoken
 
 hablé                 - I spoke
 estaba hablando       - I was speaking
-había hablado         - I have spoke
-había estado hablando - I was speaking
+había hablado         - I had spoken
+había estado hablando - I had been speaking
 
-hablaré    
-estaré hablando    
-habré hablado    
-habré estado hablando
+hablaré               - I will speak
+estaré hablando       - I will be speaking
+habré hablado         - I will have spoken
+habré estado hablando - I will have been speaking
 
 # Present
 hablo 

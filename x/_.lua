@@ -1,59 +1,50 @@
-- Define the available files with their corresponding descriptions
 local files = {
-    {path = "../data/yo/1-present.lua", description = "present   - I ______"},
-    {path = "../data/yo/a-con-present.lua", description = "cont      - I am ______ing"},
-    {path = "../data/yo/i-perfcon-present.lua", description = "perf+cont - I have been ______ing"},
-    {path = "../data/yo/x-perf-present.lua", description = "perf      - I have ______ "},
+    {path = "chp1.lua", description = "Nouns 1"},
+    {path = "chp2.lua", description = "Nouns 2"},
+    {path = "chp3.lua", description = "Verbs 1"},
+    {path = "chp4.lua", description = "Articles 1"},
+    {path = "chp5.lua", description = "Articles 2"},
 }
-
 local running = true
+local totalCorrect = 0
+local totalAttempts = 0
 
 while running do
-    -- Print options
     print("Choose a file by entering the corresponding number:")
     for i, file in ipairs(files) do
         print(i .. ". " .. file.description)
     end
+    print("---------------")
 
-    -- Get user input
     local userInput = io.read()
 
     if userInput == "x" then
         running = false
-    -- Start 
     elseif tonumber(userInput) and tonumber(userInput) >= 1 and tonumber(userInput) <= #files then
         local selectedFile = files[tonumber(userInput)]
         local filePath = selectedFile.path:match("([^/]+)%.lua$")
         local correct = 0
         local total = 0
-        local start = os.time()
-
-        print(filePath)
-        print("---------------")
 
         dofile(selectedFile.path)
 
-        for verb, conjugation in pairs(data) do
-            io.write(total + 1 .. ". " .. selectedFile.description:gsub("______", verb) .. ": ")
+        for spanish, english in pairs(data) do
+            io.write(total + 1 .. ". " .. spanish .. ": ")
             local userInput = io.read()
 
-            if userInput == conjugation then
+            if userInput == english then
                 correct = correct + 1
             else
-                print("x." .. conjugation)
+                print("x." .. english)
             end
             total = total + 1
         end
 
-        -- cleanup program
-        local finish = os.time()
-        local timeSpent = finish - start
-        local percentageCorrect = math.floor((correct / total) * 100)
+        totalCorrect = totalCorrect + correct
+        totalAttempts = totalAttempts + total
 
         print("---------------")
-        print(timeSpent .. "s || " .. percentageCorrect .. "%")
-
-        print("Enter to continue or x to exit")
+        print("Press Enter to continue or 'x' to exit")
         local userInput = io.read()
 
         if userInput == "x" then
@@ -64,5 +55,12 @@ while running do
     else
         print("Invalid option selected.")
     end
+
+    startTime = os.time()
 end
+
+local totalPercentageCorrect = math.floor((totalCorrect / totalAttempts) * 100)
+
+print("Total correct: " .. totalCorrect .. "/" .. totalAttempts)
+print("Total percentage correct: " .. totalPercentageCorrect .. "%")
 

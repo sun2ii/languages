@@ -1,0 +1,70 @@
+## Main
+1. SEITH 
+  a. ser
+  b. estar
+  c. ir
+  d. tener
+  e. hacer
+2. VSHOT
+  a. venir
+  b. saber
+  c. haber
+  d. oir
+  e. traer
+3. DSPVP
+  a. dar
+  b. salir
+  c. poner
+  d. ver
+  e. poder
+4. PSSEC
+  a. pedir
+  b. seguir
+  c. servir
+  d. elegir
+  e. caer
+
+## Regular 
+1. ar - HEMA
+  a. hablar
+  b. escuchar
+  c. mirar
+  d. ayudar
+2. er - CLAD
+  a. comer
+  b. leer
+  c. aprender
+  d. deber
+3. ir - VARP
+  a. vivir
+  b. abrir
+  c. recibir
+  d. permitir
+
+## Irregular
+1. ar - LAB
+  a. llegar
+  b. alcanzar
+  c. buscar
+2. er - PCQ
+  a. parecer
+  b. conocer
+  c. querer
+3. ir - DEC
+  a. dirigir
+  b. exigir
+  c. construir
+
+## Stem
+1. ar - JPE
+  a. jugar
+  b. pensar
+  c. empezar
+2. er - DEV
+  a. doler
+  b. entender
+  c. volver
+3. ir - SMC
+  a. sentir
+  b. morir
+  c. conseguir

@@ -1,0 +1,28 @@
+-- verbs 1
+data = {
+  ['poder'] = 'can',
+  ['deber'] = 'should',
+  ['ser'] = 'to be',
+  ['estar'] = 'to be',
+  ['haber']  = 'to have',
+  ['tener'] = 'to have',
+  ['saber'] = 'to know',
+  ['poner'] = 'to put',
+  ['ver'] = 'to see',
+  ['encontrar'] = 'To find',
+  ['llegar'] = 'to arrive',
+  ['pasar'] = 'to pass',
+  ['querer'] = 'to want',
+  ['dar'] = 'to give',
+  ['hacer'] = 'to do',
+  ['decir'] = 'to say',
+  ['ir'] = 'to go',
+  ['creer'] = 'to believe',
+  ['parecer'] = 'to seem',
+  ['quedar'] = 'to remain',
+  ['hablar'] = 'to speak',
+  ['llevar'] = 'to take',
+  ['dejar'] = 'to let',
+  ['seguir'] = 'to continue',
+}
+
